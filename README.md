@@ -12,4 +12,7 @@
 <p align="center">
   https://github.com/JoaoPauloCMarra/fullstack
 </p>
-<br /><br /><br /><br /><br /><br />
+<p align="center">
+  https://github.com/JoaoPauloCMarra/react-widgets/
+</p>
+<br /><br /><br />
