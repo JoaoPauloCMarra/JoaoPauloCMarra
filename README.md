@@ -13,6 +13,9 @@
   https://github.com/JoaoPauloCMarra/fullstack
 </p>
 <p align="center">
-  https://github.com/JoaoPauloCMarra/react-widgets/
+  https://github.com/JoaoPauloCMarra/react-widgets
+</p>
+<p align="center">
+  https://www.linkedin.com/in/joaopaulomarra/?locale=en_US
 </p>
 <br /><br /><br />
