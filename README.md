@@ -10,6 +10,9 @@
   check my latest repo with a fullstack boilerplate:
 </p>
 <p align="center">
+  <a href="https://github.com/JoaoPauloCMarra/react-vite-ts--boilerplate">Latest React With Vite and Typescript</a>
+</p>
+<p align="center">
   <a href="https://github.com/JoaoPauloCMarra/fullstack">React Native+Web with shared UI</a>
 </p>
 <p align="center">
