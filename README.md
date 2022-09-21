@@ -13,6 +13,9 @@
   <a href="https://github.com/JoaoPauloCMarra/react-vite-ts--boilerplate">Latest React With Vite and Typescript</a>
 </p>
 <p align="center">
+  <a href="https://github.com/JoaoPauloCMarra/web3-apps">Some Web3 Dapps with React + TS + Vite</a>
+</p>
+<p align="center">
   <a href="https://github.com/JoaoPauloCMarra/fullstack">React Native+Web with shared UI</a>
 </p>
 <p align="center">
