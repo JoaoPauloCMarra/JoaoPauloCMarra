@@ -4,7 +4,7 @@ I am a highly experienced Senior Front End Developer with over a decade of exper
 
 In my current role at GoPuff, I lead the development of the company's component library for both web and mobile applications. I am always seeking new challenges and opportunities to contribute my skills to exciting projects. Feel free to connect with me if you're interested in collaborating or learning more about my experience.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaopaulomarra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulomarra)
 
 ## 💻 Tech Stack
 
