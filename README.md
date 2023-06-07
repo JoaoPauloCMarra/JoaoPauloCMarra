@@ -26,6 +26,7 @@ Here are some technologies I'm experienced with:
 
 Check my latest repos with full-stack boilerplate:
 
+- [A NextJS Realtime Chat with React Server Components and Server Actions](https://github.com/JoaoPauloCMarra/NextJS--Realtime-Chat--RSC--Server-Actions)
 - [Orpheus Bind - Gobal State Management Package](https://github.com/JoaoPauloCMarra/OrpheusBind)
 - [PNPM Monorepo with React and Typescript](https://github.com/JoaoPauloCMarra/pnpm-monorepo--react-ts)
 - [Latest React With Vite and Typescript](https://github.com/JoaoPauloCMarra/react-vite-ts--boilerplate)
