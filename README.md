@@ -31,4 +31,6 @@ I'm a Senior Front End Developer with 10+ years of experience specializing in Ja
 
 I'm passionate about crafting seamless user experiences and delivering high-quality web applications. If you'd like to collaborate, explore opportunities, or discuss web development, feel free to reach out!
 
-[LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [Email: joaopaulocmarra@gmail.com](mailto:joaopaulocmarra@gmail.com)
+
+📧 [Email](mailto:joaopaulocmarra@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/joaopaulomarra)
