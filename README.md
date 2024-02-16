@@ -14,13 +14,19 @@ Here are some technologies I'm experienced with:
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=joaopaulocmarra&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulocmarra&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulocmarra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulocmarra&theme=dark&hide_border=true&langs_count=2&include_all_commits=true&count_private=true" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulocmarra&theme=dark&hide_border=true" alt="" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=joaopaulocmarra&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaopaulocmarra&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="" />
+</p>
 
 ## 📚 Pinned Repositories
 
