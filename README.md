@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm João Paulo Marra!
 
-I'm a Senior Front End Developer with 10+ years of experience specializing in JavaScript, component library development, and UI/UX optimization. Currently leading component library initiatives at GoPuff.
+I'm a Senior Front End Developer with 13+ years of experience specializing in JavaScript, component library development, and UI/UX optimization
 
 ## 💻 Tech Stack
 
